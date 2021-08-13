@@ -1,3 +1,4 @@
+using of Git pull and fetch ..we are trying to know git pull and fetch differences
 im in development branch 
 hi all
 gud morning guys 
